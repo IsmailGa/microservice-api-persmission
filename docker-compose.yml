@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: permissions
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+  nats:
+    image: nats:latest
+    ports:
+      - "4222:4222"
+      - "8222:8222"
+      - "6222:6222"
+volumes:
+  postgres_data:

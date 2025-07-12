@@ -1,0 +1,52 @@
+{"error":{"code":"503","name":"NatsError"},"level":"error","message":"Failed to initialize permissions service"}
+{"error":{"code":"503","name":"NatsError"},"level":"error","message":"Failed to initialize permissions service"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
+{"error":{},"level":"warn","message":"PostgreSQL not available, using in-memory storage"}
+{"level":"info","message":"Permissions service initialized"}
+{"level":"info","message":"Service started"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully"}
+{"level":"info","message":"Permissions service shutdown complete"}
