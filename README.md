@@ -25,7 +25,7 @@ docker-compose up -d postgres nats
 Создайте файл `.env` в корне проекта:
 ```env
 NATS_URL=nats://localhost:4222
-POSTGRES_URL=postgresql://user:password@localhost:5432/permissions
+POSTGRES_URL=postgresql://postgres:123456789@localhost:5432/permissions
 ```
 
 ### 4. Сборка и запуск
